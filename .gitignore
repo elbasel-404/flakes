@@ -1,0 +1,28 @@
+# Nix build results
+result
+result-*
+
+# Nix development
+.direnv/
+.envrc
+
+# Flake lock file (optional - uncomment if you want to ignore)
+# flake.lock
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+
+# Nix profiles
+.nix-profile
+
+# Test outputs
+test-results/
