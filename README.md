@@ -445,6 +445,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## 📚 Further Reading
 
+- [PACKAGE_LIST.md](./PACKAGE_LIST.md) - Complete list of all 90+ available packages organized by category
 - [MODERN_TOOLS.md](./MODERN_TOOLS.md) - Complete guide to modern development tools and applications
 - [GUIDE.md](./GUIDE.md) - Detailed guide on how each component works
 - [Nix Flakes Documentation](https://nixos.wiki/wiki/Flakes)
