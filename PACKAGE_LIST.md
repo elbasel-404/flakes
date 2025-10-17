@@ -1,6 +1,6 @@
 # Complete Package List
 
-This document lists all 90+ modern tools and applications available in this flake.
+This document lists all 88 modern tools and applications available in this flake.
 
 ## 📝 Editors & IDEs (7)
 - **vscode** - Visual Studio Code
@@ -19,15 +19,13 @@ This document lists all 90+ modern tools and applications available in this flak
 - **starship** - Minimal, blazing-fast prompt
 - **zoxide** - Smarter cd command
 
-## 📁 File & Search Tools (7)
+## 📁 File & Search Tools (6)
 - **bat** - Cat clone with syntax highlighting
 - **eza** - Modern replacement for ls
 - **ripgrep** - Fast recursive search
 - **fd** - Simple, fast alternative to find
 - **fzf** - Command-line fuzzy finder
 - **ag** - The Silver Searcher
-- **lf** - Terminal file manager
-- **ranger** - Console file manager
 
 ## 🔧 Git Tools (3)
 - **lazygit** - Simple terminal UI for git
@@ -56,7 +54,9 @@ This document lists all 90+ modern tools and applications available in this flak
 - **helm** - Kubernetes package manager
 - **k9s** - Kubernetes CLI and TUI
 
-## 🗂️ Multiplexers (2)
+## 🗂️ File Managers & Multiplexers (4)
+- **ranger** - Console file manager
+- **lf** - Terminal file manager
 - **tmux** - Terminal multiplexer
 - **zellij** - Terminal workspace
 
@@ -148,7 +148,7 @@ This document lists all 90+ modern tools and applications available in this flak
 
 ---
 
-**Total: 90+ packages** spanning all major categories of modern development tools and applications.
+**Total: 88 packages** spanning all major categories of modern development tools and applications.
 
 ## Usage
 
