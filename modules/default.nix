@@ -1,6 +1,10 @@
 { lib, config, pkgs, ... }:
 
 {
+  imports = [
+    ./modern-tools.nix
+  ];
+
   # Example NixOS module from the flakes library
   # This can be imported in NixOS configuration
   
